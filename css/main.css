@@ -112,6 +112,10 @@ body {
     font-size: 15px;
 }
 
+.hero__contacts {
+    margin-bottom: 24px;
+}
+
 
 .section {
     margin-bottom: 120px;
